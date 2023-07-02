@@ -1,6 +1,6 @@
 // SetManipulator MIT Licence © 2016 Edwin Monk-Fromont http://github.com/edmofro
 // Based on setOps.js MIT License © 2014 James Abney http://github.com/jabney
-// Updated for Typescript by Josh Gachnang
+// Updated for Typescript by SuperSniper
 
 // Set operations union, intersection, symmetric difference,
 // relative complement, equals. Set operations are fast.

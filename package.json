@@ -24,7 +24,7 @@
     "watch:node": "nodemon dist/server.js",
     "watch:typescript": "tsc -w"
   },
-  "author": "Josh Gachnang",
+  "author": "SuperSniper",
   "license": "GPL-3.0",
   "dependencies": {
     "@google-cloud/firestore": "1.2.0",
